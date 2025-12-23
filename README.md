@@ -14,6 +14,14 @@ When Copy paste does not work in a website or anywhere. Dont worry use this appl
 
 ### Step 3: Open your favorite IDE (Like Vsc)
 -> Open the folder for you IDE(VSC), then run the pythone script.
+
+ohh yeah before running the code. run this in the terminal
+
+
+    python -m pip install pyautogui
+
+
+hope fully you have python installed in your laptop/ computer.
 <br></br>
 ## ->  If you know little about git hub
 
