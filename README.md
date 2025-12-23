@@ -3,6 +3,8 @@ When Copy paste does not work in a website or anywhere. Dont worry use this appl
 <br></br>
 # How to Use
 
+(consedering you are using windows)
+
 ## ->  If you are a noob at github
 ### Step 1: Download the code 
 -> Go to the following page https://github.com/AkhilNagipogu/AutoTyper , click on Code(The green button), then download ZIP.
