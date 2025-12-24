@@ -1,32 +1,51 @@
-# AutoTyper
-When Copy paste does not work in a website or anywhere. Dont worry use this application it act as a keyboard and types everything you want to copy paste ( Instead of you typing) .
-<br></br>
-# How to Use
+# 🧠 AutoTyper
 
-(consedering you are using windows)
+When **copy–paste does not work** on a website or application, AutoTyper will  
+**type the text for you automatically**, just like a real human typing.
 
-## ->  If you are a noob at github
-### Step 1: Download the code 
--> Go to the following page https://github.com/AkhilNagipogu/AutoTyper , click on Code(The green button), then download ZIP.
+Useful for:
+- Websites that block copy–paste
+- Restricted input fields
+- Automation & testing
+- Lazy typing 😄
 
-### Step 2: Unzip the zip file
--> Right click on the zip file and click on Extract all.
+---
 
-### Step 3: Open your favorite IDE (Like Vsc)
--> Open the folder for you IDE(VSC), then run the pythone script.
+## 🚀 How It Works
 
-ohh yeah before running the code. run this in the terminal
+1. You provide the text
+2. AutoTyper simulates keyboard input
+3. The text is typed wherever your cursor is focused
 
+⚠️ Make sure the correct input field is selected before typing starts.
 
-    python -m pip install pyautogui
+---
 
+## 🖥️ How to Use (Windows,)
 
-hope fully you have python installed in your laptop/ computer.
-<br></br>
-## ->  If you know little about git hub
+---
 
--> Refer the Noob instruction it small and i am to lazy to type all that again.
-<br></br>
-## -> If you are a Pro
+## 🪟 Windows
 
-Figure it out buddy.
+### Step 1: Download the code
+1. Go to: https://github.com/AkhilNagipogu/AutoTyper  
+2. Click **Code** → **Download ZIP**
+3. Extract the ZIP file
+
+### Step 2: Open the project
+- Open your favorite IDE (VS Code recommended)
+- Open the extracted folder
+
+### Step 3: Install dependency
+Open terminal in the project folder and run:
+
+```bash
+python -m pip install pyautogui
+
+```
+### Step 4: Run the code
+Make sure Python is installed, then run the Python file.
+
+```bash
+python3 main.py
+```
